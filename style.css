@@ -353,3 +353,7 @@ li{
 #portrait {
   border-radius: 8px;
 }
+
+html {
+  zoom: 140%;
+}
